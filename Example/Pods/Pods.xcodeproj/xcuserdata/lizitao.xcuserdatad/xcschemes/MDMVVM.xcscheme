@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A47CF45C8077D44814F978FE77F73046"
+               BlueprintIdentifier = "FE257DAAF7D57F4F2A53430EEF367A93"
                BuildableName = "libMDMVVM.a"
                BlueprintName = "MDMVVM"
                ReferencedContainer = "container:Pods.xcodeproj">

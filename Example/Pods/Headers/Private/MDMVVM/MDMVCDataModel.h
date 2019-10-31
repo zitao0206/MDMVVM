@@ -1,1 +1,1 @@
-../../../../../MDMVVM/Classes/MVC/MDMVCDataModel.h
+../../../../../MDMVVM/Classes/MVC/Model/MDMVCDataModel.h

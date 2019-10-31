@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM/MDMVVMViewController.m \
+  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM-1/Controller/MDMVVMViewController.m \
   /Users/lizitao/Desktop/MDProjects/MDMVVM/Example/Pods/Target\ Support\ Files/MDMVVM/MDMVVM-prefix.pch \
-  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM/MDMVVMViewController.h \
-  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM/MDMVVMViewModel.h \
+  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM-1/Controller/MDMVVMViewController.h \
+  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM-1/ViewModel/MDMVVMViewModel.h \
   /Users/lizitao/Desktop/MDProjects/MDMVVM/Example/Pods/Headers/Private/ReactiveObjC/ReactiveObjC.h \
   /Users/lizitao/Desktop/MDProjects/MDMVVM/Example/Pods/Headers/Private/ReactiveObjC/RACEXTKeyPathCoding.h \
   /Users/lizitao/Desktop/MDProjects/MDMVVM/Example/Pods/Headers/Private/ReactiveObjC/RACmetamacros.h \
@@ -72,5 +72,6 @@ dependencies: \
   /Users/lizitao/Desktop/MDProjects/MDMVVM/Example/Pods/Headers/Private/ReactiveObjC/UIRefreshControl+RACCommandSupport.h \
   /Users/lizitao/Desktop/MDProjects/MDMVVM/Example/Pods/Headers/Private/ReactiveObjC/UISlider+RACSignalSupport.h \
   /Users/lizitao/Desktop/MDProjects/MDMVVM/Example/Pods/Headers/Private/ReactiveObjC/UISwitch+RACSignalSupport.h \
-  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM/MDMVVMDataModel.h \
-  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVC/MDMVCDataModel.h
+  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM-1/Model/MDMVVMDataModel.h \
+  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVC/Model/MDMVCDataModel.h \
+  /Users/lizitao/Desktop/MDProjects/MDMVVM/MDMVVM/Classes/MVVM-1/View/MDMVVMTableViewCell.h
