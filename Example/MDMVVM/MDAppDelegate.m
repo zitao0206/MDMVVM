@@ -7,12 +7,19 @@
 //
 
 #import "MDAppDelegate.h"
+#import "MDViewController.h"
 
 @implementation MDAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    MDViewController *main = [MDViewController new];
+    UINavigationController *nav = [[UINavigationController alloc]initWithRootViewController:main];
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    self.window.backgroundColor = [UIColor whiteColor];
+    self.window.rootViewController = nav;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 

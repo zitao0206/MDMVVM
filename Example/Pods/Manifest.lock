@@ -1,0 +1,24 @@
+PODS:
+  - MDMVVM (0.0.1):
+    - ReactiveObjC
+  - ReactiveObjC (3.1.0)
+
+DEPENDENCIES:
+  - MDMVVM (from `../`)
+  - ReactiveObjC (= 3.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReactiveObjC
+
+EXTERNAL SOURCES:
+  MDMVVM:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MDMVVM: b1f538a9cae86531e9b84684aeb8afc88fa3ae3b
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+
+PODFILE CHECKSUM: c8877fcd69573b2b12449639982d6acbbeffd5fd
+
+COCOAPODS: 1.6.1
