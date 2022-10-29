@@ -1,16 +1,16 @@
 PODS:
-  - MDMVVM (0.0.1):
+  - MDMVVM (0.0.3):
     - ReactiveObjC
-  - ReactiveObjC (3.1.0)
+  - ReactiveObjC (3.1.1)
   - SVProgressHUD (2.2.5)
 
 DEPENDENCIES:
   - MDMVVM (from `../`)
-  - ReactiveObjC (= 3.1.0)
+  - ReactiveObjC
   - SVProgressHUD
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - ReactiveObjC
     - SVProgressHUD
 
@@ -19,10 +19,10 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MDMVVM: b1f538a9cae86531e9b84684aeb8afc88fa3ae3b
-  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  MDMVVM: de78da335ef20e003f5e6e0f28279ba234a7f693
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
 
-PODFILE CHECKSUM: c50fda7e8dd369797eb2c34936a96a859c965371
+PODFILE CHECKSUM: 6dde5dcf8873cfc8c22eb4fe7fa77d5d81f1fb1a
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.10.1

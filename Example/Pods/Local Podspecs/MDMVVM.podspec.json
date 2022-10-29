@@ -1,6 +1,6 @@
 {
   "name": "MDMVVM",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A short description of MDMVVM.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/leon0206/MDMVVM",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/leon0206/MDMVVM.git",
-    "tag": "0.0.1"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "9.0"
